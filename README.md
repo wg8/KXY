@@ -7,4 +7,4 @@
 ## 功能3：输出txt文件
 - 勾选checkBox，需要在当前路径输出上述的25组内容，取消勾选，将不输出为txt文件。
 
-[](KXY/image/kxy.gif)
+![](https://github.com/wg8/KXY/blob/master/image/kxy.gif)
